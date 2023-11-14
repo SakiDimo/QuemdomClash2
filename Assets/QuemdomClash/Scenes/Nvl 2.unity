@@ -2742,7 +2742,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4001341059962208, guid: ecf45e4df2dce574198caaffe86c44a6, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.28774
+      value: -11.28774
       objectReference: {fileID: 0}
     - target: {fileID: 4001341059962208, guid: ecf45e4df2dce574198caaffe86c44a6, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2772,6 +2772,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114184457958384624, guid: ecf45e4df2dce574198caaffe86c44a6,
+        type: 3}
+      propertyPath: WalkSpeed
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 114499223069276626, guid: ecf45e4df2dce574198caaffe86c44a6,
         type: 3}
       propertyPath: VisionRadius
@@ -2787,6 +2792,11 @@ PrefabInstance:
       propertyPath: CharacterBrain
       value: 
       objectReference: {fileID: 470934719}
+    - target: {fileID: 210286107803106362, guid: ecf45e4df2dce574198caaffe86c44a6,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ecf45e4df2dce574198caaffe86c44a6, type: 3}
 --- !u!1 &470934717 stripped
